@@ -1,4 +1,4 @@
-package com.cmdev.lifting
+package com.cmdev.lifting.model
 
 import scala.collection.mutable.ListBuffer
 
@@ -15,12 +15,12 @@ class WorkoutSpec extends Specification {
     "have the volume equal to all exercise volumes" in {
       val workout = new WorkoutRecord
       val set1 = WorkSet(3,10)
-      val bench = Exercise("bench", ListBuffer(set1))
+      val bench = BenchPress(ListBuffer(set1))
       val set2 = WorkSet(5,5)
       bench.addSet(set2)
       val setA = WorkSet(5,100)
       val setB = WorkSet(3,120)
-      val squat = Exercise("squat", ListBuffer(setA, setB))
+      val squat = Squat(ListBuffer(setA, setB))
       workout.addExercise(bench)
       workout.addExercise(squat)
       workout.volume === bench.volume + squat.volume
@@ -30,12 +30,23 @@ class WorkoutSpec extends Specification {
   "An exercise" should {
     "have at least one set" in {
       val testSet = WorkSet(3,10)
-      val testExercise = Exercise("bench", ListBuffer(testSet))
-      testExercise.name === "bench"
+      val testExercise = BenchPress(ListBuffer(testSet))
+      testExercise.name === "Bench Press"
       testExercise.sets.size === 1
       val set2 = WorkSet(5,5)
       testExercise.addSet(set2)
       testExercise.volume ==== testSet.volume + set2.volume
+    }
+
+    "be able to be any weird name" in {
+      val testSet = WorkSet(3,10)
+      val testExercise = Exercise("My Unique Lift", ListBuffer(testSet))
+      testExercise.name === "My Unique Lift"
+      testExercise.sets.size === 1
+      val set2 = WorkSet(3,8)
+      testExercise.addSet(set2)
+      testExercise.volume ==== testSet.volume + set2.volume
+
     }
   }
 

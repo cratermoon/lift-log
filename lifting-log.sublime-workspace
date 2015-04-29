@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"d",
+				"describe"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"WebSit",
+				"webSiteStore"
+			],
+			[
+				"pro",
+				"providers"
+			],
+			[
+				"Capture",
+				"CaptureProvider"
+			],
+			[
+				"Provider",
+				"ProviderProfile"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"P",
+				"ProviderProfile"
+			],
+			[
+				"s",
+				"sessionStorageKey"
+			],
+			[
+				"AutC",
+				"AuthSuccess"
+			],
+			[
+				"AuthCa",
+				"AuthCallbackResult"
+			],
+			[
+				"se",
+				"sessionKey"
+			],
+			[
+				"param",
+				"paramString"
+			],
+			[
+				"pr",
+				"providerId"
+			],
+			[
+				"id",
+				"providerId"
+			],
+			[
+				"A",
+				"AuthStart"
+			],
+			[
+				"Aut",
+				"AuthFlowRequest"
+			],
+			[
+				"rp",
+				"rpOpt"
+			],
+			[
+				"ca",
+				"captureProvider"
+			],
+			[
+				"af",
+				"AuthFlowRequest"
+			],
+			[
+				"build",
+				"buildStartResult"
+			],
+			[
+				"cas",
+				"case class	case class"
+			],
+			[
+				"AuthS",
+				"AuthStartResult"
+			],
+			[
+				"requ",
+				"requestId"
+			],
+			[
+				"t",
+				"tdate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/steven/Documents/Source/jsm/src/main/scala/janrain/steven/fivethreeone/ProgramCalculator.scala",
+		"/Users/steven/Documents/Source/lift-log/src/main/scala/com/cmdev/lifting/model/Workout.scala",
+		"/Users/steven/Documents/Source/lift-log/src/test/scala/com/cmdev/lifting/model/WorkoutSpec.scala",
+		"/Users/steven/Documents/Source/jsm/src/test/scala/janrain/steven/fivethreeone/ProgramCalculatorSpec.scala",
+		"/Users/steven/Downloads/sso_tst_media_id_be_metadata.xml",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/OAuthFlow.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthStart.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthFlowStartParams.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthFlowErrors.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthFlowService.scala",
+		"/Library/WebServer/Documents/cidp/index.html",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthFlowRequest.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/steven/C3.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthCallback.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/AuthFlowResult.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/XdReceiverResponse.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/model/c3/RelyingParty.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/CaptureFlow.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/DocCheckFlow.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/service/CustomFlow.scala",
+		"/Users/steven/Documents/Source/auth-service/src/main/scala/janrain/auth/model/c3/C3.scala",
+		"/Users/steven/Documents/sso-eu-status.html",
+		"/Users/steven/Documents/Source/provider-services/src/main/scala/janrain/provider/openid/OpenID2Provider.scala",
+		"/Users/steven/Documents/Source/provider-services/src/main/scala/janrain/provider/openid/OpenIDProvider.scala",
+		"/Users/steven/Documents/Source/provider-services/src/main/scala/janrain/provider/openidconnect/OpenIDConnect.scala",
+		"/Users/steven/Documents/Source/provider-services/src/main/scala/janrain/provider/openidconnect/OpenIDConnectProvider.scala",
+		"/Users/steven/Documents/Source/provider-services/src/main/scala/janrain/provider/providers/google/googleplus/GooglePlus.scala",
+		"/Users/steven/Documents/Source/provider-services/src/main/scala/janrain/provider/providers/aol/Aol.scala",
+		"/Users/steven/Documents/Source/engage/Vagrantfile",
+		"/Users/steven/Documents/twiterr.html",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/fimnet/FiMnet.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/fimnet/Profile.scala",
+		"/Users/steven/Documents/Source/engage/src/test/scala/janrain/provider/providers/fimnet/FiMnetSpec.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/core/Provider.scala",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/fimnet_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/config/routes.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/aol_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/api_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/relying_parties_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/application.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/admin_controller.rb",
+		"/Library/WebServer/Documents/pfc/index.html",
+		"/Users/steven/Documents/Source/sso/src/main/java/com/janrain/sso/integration/engage/EngageController.java",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/internal_api_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/admin_reports_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/openid_provider_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/facebook_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/signin_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/auth_base_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/oauth_base_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/provider_services_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/account_controller.rb",
+		"/Users/steven/Documents/Source/engage/rails/app/controllers/monitoring_controller.rb",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/utils/Encryption.scala",
+		"/Users/steven/Downloads/Squats.svg",
+		"/Users/steven/Documents/Source/engage/merges-since-apr-1",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/linkedin/LinkedIn.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/linkedin/Scopes.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/linkedin/Profile.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/linkedin/RemoteProfileFields.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/oauth/OAuth1Provider.scala",
+		"/Users/steven/Documents/Engage instance IDs and hostnames",
+		"/Users/steven/Downloads/Engage_by_RP-1397080077756.json",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/connector/FederateLoginFilter.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/connector/PfizerConnectSupport.scala",
+		"/Users/steven/Documents/pfizerconnect.txt",
+		"/Users/steven/Documents/5.2.2_renren.json",
+		"/Users/steven/Documents/5.3.0_renren.json",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/connector/PfizerConnectTemplate.scala",
+		"/Users/steven/Documents/Source/engage/src/main/resources/views/pfizer/login.ssp",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/profile/UserFields.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/facebook/Profile.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/providers/facebook/Facebook.scala",
+		"/Users/steven/Documents/Source/engage/src/main/scala/janrain/provider/oauth/OAuth2Provider.scala",
+		"/Users/steven/Documents/ec2namesub.user.js",
+		"/Users/steven/Documents/Source/pse-projects/customer/nstic/capture/src/java/com/janrain/LoginServlet.java",
+		"/Users/steven/Documents/Source/pse-projects/customer/nstic/capture/web/index.jsp",
+		"/Users/steven/Documents/Source/sso/sso-postmessage-testing.js",
+		"/Users/steven/Documents/Source/widgets/views/js/capture/_ui_closure.js.erb",
+		"/Users/steven/Documents/Source/widgets/views/js/_common_loadscript.js.erb",
+		"/Users/steven/Google Drive/scheduler/src/main/scala/com/janrain/steven/runner/AlertScheduler.scala",
+		"/Users/steven/Downloads/bless.svg",
+		"/Users/steven/Documents/Source/sso/sso.dot.svg",
+		"/Users/steven/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/steven/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"CaptureConfig",
+			"build",
+			"buildU",
+			"Redirctin to",
+			"sessionKey",
+			"params",
+			"profile",
+			"ToJ",
+			"authstar",
+			"OpenIDStart",
+			"#012",
+			"picture-url",
+			"finish",
+			"rp_service_level",
+			"rp_serv",
+			"fourohfour",
+			"create_rp",
+			"index",
+			"backplane_p",
+			"index",
+			"openid",
+			"widget",
+			"2086",
+			"2065",
+			"2054",
+			"2047",
+			"url",
+			"Bas",
+			"dev",
+			"ToMap",
+			"LoginParameters",
+			"LOGIN_ATTRIBUTES",
+			"storeLoginInSession",
+			"webPart",
+			"getRequestToken",
+			"UTF",
+			"PfizerReturn",
+			"isPfizerReturn",
+			"session",
+			"storeLogin",
+			"storeLoing",
+			"isLogin",
+			"isPfizerReturn",
+			"anonymous",
+			"/user/",
+			"LoginP",
+			"projectId",
+			"likes",
+			"facebook/callback",
+			"nsticLoginHandler",
+			"channel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"JanrainConfig",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true
+}
